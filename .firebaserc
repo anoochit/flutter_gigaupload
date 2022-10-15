@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "gigaupload-d3949"
+  },
+  "targets": {
+    "gigaupload-d3949": {
+      "hosting": {
+        "app": [
+          "gigaupload"
+        ],
+        "main": [
+          "gigaupload-d3949"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
