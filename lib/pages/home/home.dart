@@ -99,7 +99,7 @@ class _HomePageState extends State<HomePage> {
                   );
                 },
                 gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
-                  crossAxisCount: (Get.width > 720) ? 4 : 2,
+                  crossAxisCount: (context.width > 720) ? 4 : 2,
                 ),
               );
             }
